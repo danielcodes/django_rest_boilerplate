@@ -1,0 +1,9 @@
+
+Things that I need to build out
+
+[ ] Separate the user model into its own separate app
+--look into extending the user model
+[ ] Return the username when a user request the JWT, not just the token
+
+
+[ ] Add in the backend for creating polls and options
